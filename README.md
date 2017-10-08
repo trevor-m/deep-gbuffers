@@ -1,4 +1,4 @@
-# Implementation of Mara et al: Fast Global Illumination Approximations on Deep G-Buffers
+# Implementation of Mara et al: [Fast Global Illumination Approximations on Deep G-Buffers](http://research.nvidia.com/publication/fast-global-illumination-approximations-deep-g-buffers)
 See report.pdf for more information. This project was built using the [Glitter](https://github.com/Polytonic/Glitter) template, as a final project for CMPSC 280 (Advanced Computer Graphics, UCSB, Professor Pradeep Sen).
 
 <img width="501" alt="rad" src="https://user-images.githubusercontent.com/12981474/31321401-7c47ff12-ac3a-11e7-82f9-b06121992857.png">
